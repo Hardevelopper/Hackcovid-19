@@ -1,14 +1,14 @@
 <html>
 <head> 
-      <meta Charest=utf-8/> 
+      
 </head>
-<body style="background-color:#23798E;">
+<body style="background-color:#DADBDD;">
       <h1 style="color:#630929;">Création du Collectif des Professionnels des TIC Africains contre le COVID- Hackcovid.africa</h1>
      <p>
       <strong>Les Associations et Fédérations Professionnelles des Technologies de l’Information s’allient pour faire face à la crise sanitaire actuelle.</strong><br/>
           Dans la perspective de créer une dynamique de solidarité continentale, et de fédérer les efforts collectifs au service de la lutte contre la crise sanitaire causée par la pandémie mondiale de COVID-19, les professionnels des technologies d’information africains ont décidé de s’allier et unir leurs efforts en fondant le Collectif Africain des Professionnels des Technologies de l’information.<br/>
           Convaincu que notre continent regorge de talents prêts à le défendre, le collectif réunit des Associations et Fédérations des Professionnels des Technologies d’Informations issues de tous les coins de l’Afrique :<br/>
-      <ul style="color:#056BB3;">    
+      <ul style="color:">    
          <li>L’Association des Sociétés Informatiques du Mali (ASIM);</li>
          <li>L’Association des nouvelles technologies du BURKINA FASSO;</li>
          <li>La Commission pour le développement et la promotion du Numérique, du Forum des Chefs d’Entreprises d’Algérie;</li>
