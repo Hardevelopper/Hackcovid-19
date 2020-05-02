@@ -16,11 +16,12 @@
          <li>La Fédération tunisienne du Numérique (UTICA);</li>
          <li>L’Organisation des professionnels des technologies de l’information et de la communication du Sénégal (OPTIC);</li>
          <li>Le Réseau des Professionnels du secteur des Télécommunications du Cameroun (REPTIC)</li>
-      </il>
-     </p>
+      </ul>
+      </p>
     <p>
         Des réunions sont en cours pour faire adhérer plusieurs autres organismes.<br/>
         La démarche employée par le collectif consiste en un échange de bonnes pratiques en termes d’innovation en cette période de crise, et un recensement de solutions rapidement déployables de part et d’autres à travers le continent, pour les mettre en avant sur un “Mur d’Innovation” au service de l’Afrique www.hackcovid.africa.
     </p>
 </body>
+
 </html>
